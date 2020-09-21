@@ -1,0 +1,11 @@
+{
+    "django": {
+        "db": {
+            "name": "",
+            "user": "",
+            "password": "",
+            "host": "",
+            "port": ""
+        }
+    }
+}

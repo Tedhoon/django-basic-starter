@@ -13,3 +13,5 @@ media
 **/migrations/**
 !**/migrations
 !**/migrations/__init__.py
+
+!secret_key_format/.config_secret
